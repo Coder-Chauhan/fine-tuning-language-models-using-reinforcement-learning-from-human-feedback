@@ -1,3 +1,0 @@
-base_model,baseline_pref_accuracy,dpo_pref_accuracy
-distilgpt2,0.54,0.57
-gpt2,0.48,0.46
